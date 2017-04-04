@@ -1,0 +1,7 @@
+I am using firebase and admob in my project but i am not collecting any user data. 
+The connection is there for future implementation.
+I will change my privacy policy if i update my app with user information being used by my app.
+https://support.google.com/admob/answer/6128543?hl=en&ref_topic=2745287
+https://www.firebase.com/terms/privacy-policy.html
+The camera permission used is to make sure that the user can scan the QR code when the alarm goes off. 
+We are not accessing any user data through camera permission in the app.
